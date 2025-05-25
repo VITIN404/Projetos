@@ -1,2 +1,3 @@
 # Projetos
-Projetos feitos no decorrer da minha vida! Aqui irei postar projetos feitos tanto antes da faculdade e projetos fora da faculdade!
+Projetos feitos no decorrer da minha vida! 
+Neste Repositório irei postar projetos feitos antes da faculdade e projetos pessoais!
